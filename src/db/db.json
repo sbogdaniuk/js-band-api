@@ -1,0 +1,620 @@
+{
+  "books": [
+    {
+      "title": "Apuntes de Javascript I - Nivel Intermedio",
+      "author": "JuanMa Garrido",
+      "level": "Intermediate",
+      "description": "(En Castellano) Revision de conceptos (actuales) de javascript desde basicos hasta un nivel intermedio",
+      "cover": "https://jsbooks.revolunet.com/img/cover-apuntes-javascript-intermedio.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Apuntes de Javascript I - Nivel Avanzado",
+      "author": "JuanMa Garrido",
+      "description": "(En Castellano) Revision de conceptos (actuales) de javascript avanzados",
+      "level": "Advanced",
+      "cover": "https://jsbooks.revolunet.com/img/cover-apuntes-javascript-avanzado.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Javascript Enlightenment",
+      "author": "Cody Lindley",
+      "level": "Intermediate",
+      "description": "An accurate JavaScript worldview through an examination of native JavaScript objects and supporting nuances.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jsenlight.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Eloquent Javascript",
+      "author": "Marijn Haverbeke",
+      "level": "Beginner",
+      "description": "A book providing an introduction to the JavaScript language and programming in general.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_eloquentjs.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Building A JavaScript Framework",
+      "author": "Alex Young",
+      "level": "Advanced",
+      "description": "best Of Let’s Make a Framework articles.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_buildingjsframework.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "JS in ten minutes",
+      "author": "Spencer Tipping",
+      "level": "Advanced",
+      "description": "This guide is for anyone who knows some Javascript but would like a quick intro to its advanced features.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_js10minutes.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Smooth CoffeeScript",
+      "author": "E. Hoigaard",
+      "level": "Intermediate",
+      "description": "An introduction to CoffeeScript programming with an emphasis on clarity, abstraction and verification.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_smoothcoffeescript.png",
+      "tags": ["coffeescript"]
+    },
+    {
+      "title": "Hard Rock CoffeeScript",
+      "author": "Alex Chaplinsky",
+      "level": "Intermediate",
+      "description": "CoffeeScript programming language guide with javascript design patterns explained in coffeescript.",
+      "cover": "https://jsbooks.revolunet.com/img/hard_rock_coffeescript.png",
+      "tags": ["coffeescript"]
+    },
+    {
+      "title": "Up and Running with Node.js",
+      "author": "Tom Hughes-Croucher",
+      "level": "Advanced",
+      "description": "Discover NodeJS APIS, tools, modules and best practices and learn how to extend it.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_upandrunningnode.png",
+      "tags": ["nodejs"]
+    },
+    {
+      "title": "jQuery Fundamentals",
+      "author": "Rebecca Murphey",
+      "level": "Beginner",
+      "description": "Community driven Javascript and jQuery book.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jqueryfund.png",
+      "tags": ["jquery", "frontend"]
+    },
+    {
+      "title": "Developing Backbone.js Applications",
+      "author": "Addy Osmani",
+      "level": "Intermediate",
+      "description": "In this book we will explore MVC theory and how to build applications using Backbone's models, views, collections and routers.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_backbonefundamentals.jpg",
+      "tags": ["backbone", "frontend"]
+    },
+    {
+      "title": "Javascript Guide",
+      "author": "Mozilla Developer Network",
+      "level": "Beginner",
+      "description": "JavaScript is a cross-platform, object-based scripting language. This guide explains everything you need to know about using JavaScript.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jsguidemozilla.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "JavaScript For Cats",
+      "author": "Max Ogden",
+      "level": "Beginner",
+      "description": "An in-browser interactive introductory programming text designed for cats. Humans are probably also capable of following along.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jsforcats.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Javascript Design Patterns",
+      "author": "Addy Osmani",
+      "level": "Beginner",
+      "description": "In this book we will explore applying both classical and modern design patterns to the JavaScript programming language",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jspatterns.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
+      "author": "Addy Osmani",
+      "level": "Advanced",
+      "description": "In this article, we're going to look at three formats for writing modular JavaScript: AMD, CommonJS and proposals for the next version of JavaScript, Harmony.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_modularjavascript.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "The little Book on CoffeeScript",
+      "author": "Alex MacCaw",
+      "level": "Intermediate",
+      "description": "This book is designed to help you learn CoffeeScript, understand best practices and start building awesome client side applications.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_littlecoffeescript.png",
+      "tags": ["coffeescript"]
+    },
+    {
+      "title": "Master Space and time with JavaScript - The Basics",
+      "author": "Noel Rappin",
+      "level": "Intermediate",
+      "description": "[NOTE : Free registration needed]. A four book series aimed at developers who have a basic knowledge of JavaScript but who need to learn about newer tools and practices.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_masterspacetime.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "HTML Canvas Deep Dive",
+      "author": "Josh Marinacci",
+      "level": "Advanced",
+      "description": "For those who allready know JavaScript basics and wants to learn HTML Canvas.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_htmlcanvas.png",
+      "tags": ["games", "frontend"]
+    },
+    {
+      "title": "Dynamisez vos sites web avec JavaScript !",
+      "author": "Le Site du Zero",
+      "level": "Beginner",
+      "description": "[IN FRENCH] Le tutorial référence en francais pour apprendre le JavaScript. Culte !",
+      "cover": "https://jsbooks.revolunet.com/img/cover_sitezero.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Testing with CoffeeScript",
+      "author": "Jack Franklin",
+      "level": "Intermediate",
+      "description": "[NOTE : Download needed]. You will be guided through the creation of a shopping cart system. You’ll learn about using and testing jQuery code, writing more idiomatic CoffeeScript and building a well thought out and structured, complex JavaScript application.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_testingcf.png",
+      "tags": ["coffeescript", "testing"]
+    },
+    {
+      "title": "Dive into HTML 5",
+      "author": "Mark Pilgrim",
+      "level": "Intermediate",
+      "description": "A community ebook to discover HTML5 best practices and experiment with Javascript.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_diveintohtml5.png",
+      "tags": ["html5", "frontend"]
+    },
+    {
+      "title": "Javascript Garden",
+      "author": "Ivo Wetzel",
+      "level": "Advanced",
+      "description": "A collection of documentation about the most quirky parts of JavaScript.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_javascriptgarden.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "The little MongoDB book",
+      "author": "Karl Seguin",
+      "level": "Advanced",
+      "description": "Discover NoSQL with MongoDB and commons Javascript usage patterns.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_mongodbbook.png",
+      "tags": ["mongodb", "backend"]
+    },
+    {
+      "title": "Mixu's Node book",
+      "author": "Mikito Takada",
+      "level": "Advanced",
+      "description": "A comprehensive and interesting NodeJS overview covering many aspects in details.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_nodemixu.png",
+      "tags": ["nodejs"]
+    },
+    {
+      "title": "Single page apps in depth",
+      "author": "Mikito Takada",
+      "level": "Advanced",
+      "description": "Learn the best practices for implementing single page web apps.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_singlepagewebapps.png",
+      "tags": ["spa", "frontend"]
+    },
+    {
+      "title": "Mastering NodeJS",
+      "author": "TJ Holowaychuk",
+      "level": "Advanced",
+      "description": "In Mastering Node we will discover how to write high concurrency web servers,…",
+      "cover": "https://jsbooks.revolunet.com/img/cover_masteringnode.png",
+      "tags": ["nodejs"]
+    },
+    {
+      "title": "JS The Right Way",
+      "author": "William Oliveira",
+      "level": "Intermediate",
+      "description": "An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jsrightway.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "Programming Windows 8 Apps",
+      "author": "Devon Musgrave",
+      "level": "Beginner",
+      "description": "[NOTE : Download needed]This book is about writing Windows Store apps using HTML5, CSS3, and JavaScript.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_windows8app.png",
+      "tags": ["windows"]
+    },
+    {
+      "title": "CoffeeScript Cookbook",
+      "author": "Multiple Owner",
+      "level": "Beginner",
+      "description": "CoffeeScript recipes for the community by the community.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_coffeescriptcookbook.png",
+      "tags": ["coffeescript"]
+    },
+    {
+      "title": "DOM Enlightenment",
+      "author": "Cody Lindley",
+      "level": "Advanced",
+      "description": "Exploring the relationship between JavaScript and the modern HTML DOM",
+      "cover": "https://jsbooks.revolunet.com/img/cover_domenlightenment.png",
+      "tags": ["dom", "frontend"]
+    },
+    {
+      "title": "Bootstrap, Responsive Web Development",
+      "author": "Jake Spurlock",
+      "level": "Beginner",
+      "description": "Discover how easy it is to design killer interfaces and responsive websites with the Bootstrap framework. This practical book gets you started building pages with Bootstrap’s HTML/CSS-based tools and design templates right away. You’ll also learn how to extend your app with interactive features, using its suite of jQuery plugins—often without writing a single line of code.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_bootstrap.png",
+      "tags": ["bootstrap", "frontend"]
+    },
+    {
+      "title": "Art of Node",
+      "author": "Max Odgen",
+      "level": "Intermediate",
+      "description": "a free short e-book that teaches you the fundamentals of Node.js by Max Odgen, a popular Node supporter",
+      "cover": "https://jsbooks.revolunet.com/img/artofnode.png",
+      "tags": ["nodejs"]
+    },
+    {
+      "title": "Stream handbook",
+      "author": "James Halliday (substack)",
+      "level": "Advanced",
+      "description": "a free short e-book that teaches you how to write node programs with streams, by James Halliday a famous NodeJS supporter that published numerous awesome NodeJS modules",
+      "cover": "https://jsbooks.revolunet.com/img/streamshandbook.png",
+      "tags": ["nodejs"]
+    },
+    {
+      "title": "JavaScript Succinctly",
+      "author": "Cody Lindley",
+      "level": "Beginner",
+      "description": "JavaScript Succinctly was written to give readers an accurate, concise examination of JavaScript objects and their supporting nuances, such as complex values, primitive values, scope, inheritance, the head object, and more. If you’re an intermediate JavaScript developer and want to solidify your understanding of the language, or if you’ve only used JavaScript beneath the mantle of libraries such as jQuery or Prototype, this is the book for you.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_javascriptsuccinctly.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "jQuery Succinctly",
+      "author": "Cody Lindley",
+      "level": "Intermediate",
+      "description": "jQuery Succinctly was written to express, in short-order, the concepts essential to intermediate and advanced jQuery development. Its purpose is to instill in you, the reader, practices that jQuery developers take as common knowledge. Each chapter contains concepts essential to becoming a seasoned jQuery developer.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jquerysuccinctly.png",
+      "tags": ["jquery"]
+    },
+    {
+      "title": "Knockout.js Succinctly",
+      "author": "Ryan Hodson",
+      "level": "Intermediate",
+      "description": "Knockout.js Succinctly is intended for professional web developers who need to build dynamic, scalable user interfaces with minimal code. Author Ryan Hodson guides you through the essentials of the library, starting with a brief overview of Knockout and its data-oriented aspects, followed by a thorough examination of binding data to various HTML elements, and finally examples of accessing external data and combining Knockout with jQuery animation routines.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_knockoutjssuccinctly.png",
+      "tags": ["knockout"]
+    },
+    {
+      "title": "TypeScript Succinctly",
+      "author": "Steve Fenton",
+      "level": "Intermediate",
+      "description": "With TypeScript Succinctly by Steve Fenton, you will learn how TypeScript provides optional static typing and classes to JavaScript development, how to create and load modules, and how to work with existing JavaScript libraries through ambient declarations. TypeScript is even significantly integrated with Visual Studio to provide the autocompletion and type checking you are most comfortable with.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_typescriptsuccinctly.png",
+      "tags": ["typescript"]
+    },
+    {
+      "title": "AngularJS Fundamentals in 60 minutes",
+      "author": "Dan Wahlin",
+      "level": "Beginner",
+      "description": "This eBook is a documented transcription of the famous 'AngularJS in 60 minutes' video; The ebook is going through all of the key fundamentals you need to know about the AngularJS SPA framework.",
+      "cover": "https://jsbooks.revolunet.com/img/angular-fundamentals.jpg",
+      "tags": ["angularjs", "frontend"]
+    },
+    {
+      "title": "JavaScript Allonge",
+      "author": "Reginald Braithwaite",
+      "level": "Intermediate",
+      "description": "JavaScript Allongé is a book about programming with functions, because JavaScript is a programming language built on flexible and powerful functions.",
+      "cover": "https://jsbooks.revolunet.com/img/JavaScriptAllonge.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "jQuery Enlightenment",
+      "author": "Cody Lindley",
+      "level": "Intermediate",
+      "description": "A book for jQuery developers who have surpassed the introductory concepts.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_jqueryenlight.png",
+      "tags": ["jquery", "frontend"]
+    },
+    {
+      "title": "D3 Tips and Tricks",
+      "author": "Malcolm Maclean",
+      "level": "Intermediate",
+      "description": "Over 430 pages of tips and tricks for using d3.js, one of the leading data visualization tools for the web. It's aimed at helping people get started and also includes loads of help for more complicated tasks.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_d3tips.jpg",
+      "tags": ["d3", "frontend"]
+    },
+    {
+      "title": "Recipes with Angular.js",
+      "author": "Frederik Dietz",
+      "level": "Beginner",
+      "description": "Practical concepts and techniques for rapid web application development",
+      "cover": "https://jsbooks.revolunet.com/img/recipes_with_angular.png",
+      "tags": ["angularjs", "frontend"]
+    },
+    {
+      "title": "Speaking Javascript",
+      "author": "Axel Rauschmayer",
+      "level": "Beginner",
+      "description": "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.",
+      "cover": "https://jsbooks.revolunet.com/img/speakingjs.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "You Don't Know JS (series)",
+      "author": "Kyle Simpson",
+      "level": "Advanced",
+      "description": "Learn and deeply know *all* of JS (not just the 'good parts')",
+      "cover": "https://jsbooks.revolunet.com/img/ydkjs.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "ECMAscript language reference",
+      "author": "various authors",
+      "level": "Advanced",
+      "description": "Learn all about the Javacript language specifications with this official ECMA-262 bible.",
+      "cover": "https://jsbooks.revolunet.com/img/ecma-262.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Human Javascript",
+      "author": "Henrik Joreteg",
+      "level": "Intermediate",
+      "description": "Practical patterns for simple but powerful javascript apps. No magic frameworks. No monolithic toolkits. You're going to work with proper, real-life javascript in a way you'll understand, and with explanations that help you learn how to make great choices as you build your apps.",
+      "cover": "https://jsbooks.revolunet.com/img/human-javascript.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Understanding ECMAScript 6",
+      "author": "Nicholas C. Zakas",
+      "level": "Intermediate",
+      "description": "ECMAScript 6 is coming, are you ready? There's a lot of new concepts to learn and understand. Get a headstart with this book!",
+      "cover": "https://jsbooks.revolunet.com/img/understandinges6.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Programming JavaScript Applications",
+      "author": "Eric Elliott",
+      "level": "Intermediate",
+      "description": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain.",
+      "cover": "https://jsbooks.revolunet.com/img/Programming-JavaScript-Applications.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Javascript Challenges",
+      "author": "Tomas Corral",
+      "level": "Intermediate",
+      "description": "A book to challenge your knowledge about the most obscure parts of Javascript. Learn with us and don't be afraid again of Javascript.",
+      "cover": "https://jsbooks.revolunet.com/img/javascript_challenges.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Angular Succinctly",
+      "author": "Frederik Dietz",
+      "level": "Beginner",
+      "description": "Whether you are a novice looking to understand Angular.js or an expert seeking a reference guide, AngularJS Succinctly is indispensable!",
+      "cover": "https://jsbooks.revolunet.com/img/cover_angularjssuccinctly.jpg",
+      "tags": ["angularjs", "frontend"]
+    },
+    {
+      "title": "The offline cookbook",
+      "author": "Jake Archibald",
+      "level": "Intermediate",
+      "description": "Excellent overview and recipes using the current offline browsers capabilities",
+      "cover": "https://jsbooks.revolunet.com/img/offlinecookbook.jpg",
+      "tags": ["mobile", "html5", "frontend"]
+    },
+    {
+      "title": "You Don't Know JS: Up & Going",
+      "author": "Kyle Simpson",
+      "level": "Beginner",
+      "description": "It’s easy to learn parts of JavaScript, but much harder to learn it completely—or even sufficiently—whether you’re new to the language or have used it for years. With the 'You Don’t Know JS' book series, you’ll get a more complete understanding of JavaScript, including trickier parts of the language that many experienced...",
+      "cover": "https://jsbooks.revolunet.com/img/YDKJS-UpAndGoing.jpg",
+      "tags": ["core"]
+    },
+    {
+      "title": "Felix's Node.js Guide",
+      "author": "Felix Geisendörfer",
+      "level": "Intermediate",
+      "description": "Node.js Beginner Guide and Style Guide. The guide is a work in progress by Felix Geisendörfer, an early Node.js core contributor.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_felix_nodejs_guide.png",
+      "tags": ["nodejs", "core", "backend"]
+    },
+    {
+      "title": "Exploring ES6",
+      "author": "Axel Rauschmayer",
+      "level": "Intermediate",
+      "description": "Upgrade to the next version of JavaScript",
+      "cover": "https://jsbooks.revolunet.com/img/cover_exploringes6.png",
+      "tags": ["core"]
+    },
+    {
+      "title": "SurviveJS - Webpack",
+      "author": "Juho Vepsäläinen",
+      "level": "Beginner",
+      "description": "Learn to understand Webpack, the bundler.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_survivejs_webpack.png",
+      "tags": ["webpack", "frontend"]
+    },
+    {
+      "title": "SurviveJS - React",
+      "author": "Juho Vepsäläinen",
+      "level": "Beginner",
+      "description": "Learn how to build a Kanban application using React.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_survivejs_react.png",
+      "tags": ["react", "frontend"]
+    },
+    {
+      "title": "Mostly adequate guide to functional programming",
+      "author": "Brian Lonsdorf (DrBoolean)",
+      "level": "Intermediate",
+      "description": "Pure Happiness with Pure Functions",
+      "cover": "https://jsbooks.revolunet.com/img/cover_mostly-adequate-guide.jpg",
+      "tags": ["fp"]
+    },
+    {
+      "title": "The introduction to Reactive Programming you've been missing",
+      "author": "André Staltz (andrestaltz)",
+      "level": "Intermediate",
+      "description": "So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.",
+      "cover": "https://jsbooks.revolunet.com/img/rxintro.jpg",
+      "tags": ["fp"]
+    },
+    {
+      "title": "Book on Building Front-End Web Apps with Plain JavaScript",
+      "author": "Gerd Wagner",
+      "level": "Intermediate",
+      "description": "This book shows how to build front-end web applications with plain JavaScript, not using any (third-party) framework or library.",
+      "cover": "https://jsbooks.revolunet.com/img/buildingfrontend.jpg",
+      "tags": ["frontend"]
+    },
+    {
+      "title": "AngularJS Directives in Traction",
+      "author": "Amit Gharat",
+      "level": "Intermediate",
+      "description": "This eBook helps you understand how built-in directives work and teaches you to build custom directives on your own.",
+      "cover": "https://jsbooks.revolunet.com/img/angular-directives-in-traction.jpg",
+      "tags": ["angularjs", "angular directives", "frontend"]
+    },
+    {
+      "title": "Thinking in Javascript",
+      "author": "Aravind Shenoy",
+      "level": "Beginner",
+      "description": "[registration] Get started with JavaScript with this free eBook and learn one of the most important languages in web development today. With helpful tips and code examples, discover how you can create websites with impressive and dynamic functionality. Explore JavaScript’s in-built features and find out how to customize them in this accessible and free guide.",
+      "cover": "https://jsbooks.revolunet.com/img/thinking-javascript.jpg",
+      "tags": ["jquery", "html", "frontend"]
+    },
+    {
+      "title": "What You Need to Know about JavaScript",
+      "author": "Gabriel Cánepa",
+      "level": "Beginner",
+      "description": "[registration] Discover everything a beginner needs to know about the world of JavaScript with this free eBook. From the absolute basics of JS syntax to combining ECMAScript 6 and Visual Studio Code this primer is the perfect resource for a JavaScript Master-in-the-Making!",
+      "cover": "https://jsbooks.revolunet.com/img/need-to-know-javascript.jpg",
+      "tags": ["html", "frontend"]
+    },
+    {
+      "title": "Exploring ES2016 and ES2017",
+      "author": "Dr. Axel Rauschmayer",
+      "level": "Advanced",
+      "description": "“Exploring ES2016 and ES2017” is a living book. Much content is still to come! Buy it to stay up to date on what is in ECMAScript 2016 and ECMAScript 2017",
+      "cover": "https://jsbooks.revolunet.com/img/exploring-es2016-es2017.jpg",
+      "tags": ["es2016", "es2017", "core"]
+    },
+    {
+      "title": "Practical ES6 [modular javascript]",
+      "author": "Nicolás Bevacqua",
+      "level": "Intermediate",
+      "description": "Ideal for professional software developers with a basic understanding of JavaScript, this practical book shows you how to build small, interconnected ES6 JavaScript modules that emphasize reusability. You’ll learn how to face a project with a modular mindset, and how to organize your applications into simple pieces that work well in isolation and can be combined to create a large, robust application.",
+      "cover": "https://jsbooks.revolunet.com/img/practical-es6.jpg",
+      "tags": ["es6", "core"]
+    },
+    {
+      "title": "Designing Scalable JavaScript Applications",
+      "author": "Emmit Scott",
+      "level": "Intermediate",
+      "description": "[registration] Designing Scalable JavaScript Applications helps you start thinking about which tools and frameworks you’ll use and which design patterns you’ll implement. This book brings together excerpts from four different Manning titles selected by Emmit Scott.",
+      "cover": "https://jsbooks.revolunet.com/img/designing-scalable-javascript.jpg",
+      "tags": ["frameworks", "frontend"]
+    },
+    {
+      "title": "Using the Web to Build the IoT",
+      "author": "Dominique D. Guinard and Vlad Trifa",
+      "level": "Intermediate",
+      "description": "[registration] Using the Web to Build the IoT is a collection of six hand-picked chapters that introduce the key technologies and concepts for building the application layer of the IoT.",
+      "cover": "https://jsbooks.revolunet.com/img/iot-javascript.jpg",
+      "tags": ["iot"]
+    },
+    {
+      "title": "AngularJS essentials",
+      "author": "Rodrigo Blanas",
+      "level": "Intermediate",
+      "description": "[registration] Discover the best practices of the AngularJS framework and its most important concepts such as AngularJS directives, expressions, filters, and modules. This free eBook guides you through the steps of building your very own web application with AngularJS.",
+      "cover": "https://jsbooks.revolunet.com/img/angularjs-essentials.jpg",
+      "tags": ["angularjs", "frontend"]
+    },
+    {
+      "title": "HTML5 Data Visualization",
+      "author": "Ben Fhala",
+      "level": "Intermediate",
+      "description": "[registration] Get a complete grounding in the exciting visual world of Canvas and HTML5 using this recipe-packed cookbook. Learn to create charts and graphs, draw complex shapes, add interactivity, work with Google maps, and much more.",
+      "cover": "https://jsbooks.revolunet.com/img/html5-dataviz.jpg",
+      "tags": ["html5", "dataviz"]
+    },
+    {
+      "title": "Instant MongoDB Starter Guide",
+      "author": "Amol Nayak",
+      "level": "Intermediate",
+      "description": "[registration] This free MongoDB eBook is designed to get you working with MongoDB as quickly as possible. Starting with installation and setup, we quickly show you how to start importing your data into the database. Learn about CRUD operations in MongoDB, its Map Reduce support, schema design, performance tuning operations, and more.",
+      "cover": "https://jsbooks.revolunet.com/img/instant-mongodb.jpg",
+      "tags": ["mongodb", "database", "backend"]
+    },
+    {
+      "title": "Mastering Javascript high performance",
+      "author": "Chad R. Adams",
+      "level": "Intermediate",
+      "description": "[registration] Studying JavaScript performance in depth will make you capable of tackling the complex and important tasks required to solve performance issues. With this full-length free eBook, discover how to optimize your JavaScript for both mobile and web applications.",
+      "cover": "https://jsbooks.revolunet.com/img/js-high-performance.jpg",
+      "tags": ["backend", "frontend", "performance"]
+    },
+    {
+      "title": "Thinking in HTML",
+      "author": "Aravind Shenoy",
+      "level": "Beginner",
+      "description": "[registration] Learn to write intutive HTML and build your sites on solid foundations",
+      "cover": "https://jsbooks.revolunet.com/img/thinking-html.jpg",
+      "tags": ["html", "frontend"]
+    },
+    {
+      "title": "What You Need To Know About Node.js",
+      "author": "Bruno Joseph Dmello",
+      "level": "Beginner",
+      "description": "[registration] Dive into fundamentals of Node.js",
+      "cover": "https://jsbooks.revolunet.com/img/What-you-need-to-know-about-Nodejs.jpg",
+      "tags": ["node.js", "frontend"]
+    },
+    {
+      "title": "Object-Oriented JavaScript - Second Edition",
+      "author": "Stoyan Stefanov & Kumar Chetan Sharma",
+      "level": "Beginner",
+      "description": "[registration] Learn everything you need to know about OOJS in this comprehensive guide",
+      "cover": "https://jsbooks.revolunet.com/img/Object-Oriented-JavaScript-Second-Edition.jpg",
+      "tags": ["html", "frontend"]
+    },
+    {
+      "title": "The Road to learn React",
+      "author": "Robin Wieruch",
+      "level": "Beginner",
+      "description": "[registration] Your journey to master plain React with practical experiences",
+      "cover": "https://jsbooks.revolunet.com/img/hero.png",
+      "tags": ["reactjs", "frontend"]
+    },
+    {
+      "title": "JavaScript, ¡Inspírate!",
+      "author": "Ulises Gascón González",
+      "level": "Beginner",
+      "description": "[ES] Un libro de programación sencillo y divertido que nos muestra como programar en JavaScript, desde pseudocódigo hasta las peticiones AJAX.",
+      "cover": "https://jsbooks.revolunet.com/img/inspirate.png",
+      "tags": ["javascript", "frontend"]
+    },
+    {
+      "title": "The JavaScript Way",
+      "author": "Baptiste Pesquet",
+      "level": "Beginner",
+      "description": "A modern introduction to an essential language: beginner-friendly yet comprehensive, standards-aligned, hands-on and easy to follow.",
+      "cover": "https://jsbooks.revolunet.com/img/cover_thejsway.png",
+      "tags": ["core", "es6", "es2015"]
+    },
+    {
+      "title": "Learning ECMAScript 6",
+      "author": "Narayan Prusty",
+      "level": "Beginner",
+      "description": "[registration] Rethink the way you develop with JavaScript by learning the ECMA standardized scripting language that lies at its foundations – ECMAScript 6!",
+      "cover": "https://jsbooks.revolunet.com/img/Learning-ECMAScript-6.jpg",
+      "tags": ["javascript", "es6"]
+    }
+  ]
+}
