@@ -1,7 +1,7 @@
-const login = require('./login')
+const signin = require('./signin')
 const purchase = require('./purchase')
 
 module.exports = {
-  login,
+  signin,
   purchase,
 }

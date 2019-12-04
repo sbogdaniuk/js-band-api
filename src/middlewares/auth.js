@@ -9,7 +9,7 @@ const isAuthorized = (req) => {
 }
 
 const skipAuthRoutes = [
-  { method: 'POST', url: '/login' },
+  { method: 'POST', url: '/signin' },
 ]
 
 const skipAuth = (req) => {

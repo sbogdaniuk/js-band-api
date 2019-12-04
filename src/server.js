@@ -2,8 +2,9 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const db = require('./db')
 const { auth } = require('./middlewares')
-const { login, purchase } = require('./routes')
+const { signin, purchase } = require('./routes')
 
+const PORT = 3000
 const router = jsonServer.router(db())
 const middlewares = jsonServer.defaults()
 
@@ -14,8 +15,8 @@ server.use(jsonServer.bodyParser)
 server.use((req, res, next) => {
   if (req.method === 'POST') {
     switch (req.url) {
-      case '/login':
-        login(req, res, next)
+      case '/signin':
+        signin(req, res, next)
         break
       case '/purchase':
         purchase(req, res, next)
@@ -30,6 +31,6 @@ server.use((req, res, next) => {
 })
 
 server.use(router)
-server.listen(3000, () => {
-  console.log('JSON Server is running')
+server.listen(PORT, () => {
+  console.log(`JSON Server is running! Open http://localhost:${PORT}`)
 })

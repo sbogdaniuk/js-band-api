@@ -1,18 +1,24 @@
-const { find, omit } = require('lodash')
-
-const { faker } = require('./utils')
+const { find } = require('lodash')
 
 const genToken = () => Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
 
-const users = [{
-  password: '1234567890',
-  email: 'js-band@ciklum.com',
-  name: 'John Doe',
-  avatar: faker.image.avatar(),
-  token: genToken(),
-}]
+const users = []
 
-const getUser = params => omit(find(users, params), ['password'])
+const getUser = username => {
+  const found = find(users, { username })
+
+  if (found) return found
+
+  const newUser = {
+    username,
+    avatar: `https://api.adorable.io/avatars/100/${username.toLowerCase()}.png`,
+    token: genToken(),
+  }
+
+  users.push(newUser)
+
+  return newUser
+}
 
 module.exports = {
   getUser,
